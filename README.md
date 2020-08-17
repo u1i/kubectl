@@ -8,4 +8,6 @@ kubectl get services
 
 kubectl autoscale deployment hello1 --min=2 --max=10
 
+kubectl delete pods abc123
+
 
